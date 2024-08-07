@@ -12,3 +12,16 @@ Dự án này nhằm thực hiện các phân tích chi tiết về dữ liệu 
 **3. Phân bố khách hàng Premium, Mainstream, và Budget:**
 
 - Xác định và phân tích phân bố khách hàng theo các phân khúc: Premium, Mainstream và Budget.
+
+## Phân Tích Sản Phẩm
+**1. Những sản phẩm phổ biến nhất:**
+
+Xác định các sản phẩm có mức bán chạy nhất.
+
+**2. Số lượng trung bình mua theo sản phẩm:**
+
+Tính toán số lượng trung bình mỗi sản phẩm được mua.
+
+**3. Các thương hiệu phổ biến và hiệu suất của chúng:**
+
+Phân tích các thương hiệu nổi bật và hiệu suất bán hàng của từng thương hiệu.
